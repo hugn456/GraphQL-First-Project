@@ -2,6 +2,7 @@
 1)npm install
 
 2)npm install express express-graphql graphql
+
 3)node server.js
 # Details
 Activating localhost:5000
