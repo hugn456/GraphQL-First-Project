@@ -1,1 +1,1 @@
-# GraphQL-First-Project
+# First-GraphQL-Project
