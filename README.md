@@ -1,1 +1,2 @@
-# First-GraphQL-Project
+npm install express express-graphql graphql
+
