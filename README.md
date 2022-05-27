@@ -7,7 +7,7 @@
 # Details
 Activating localhost:5000
 
-We would like to analyze a client list including id and name; and a logistic service list including id, name and clientId: 
+We would like to analyze a client list including id and name; and a logistics service list including id, name and clientId: 
 
 clients =[
 
