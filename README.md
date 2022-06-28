@@ -47,9 +47,9 @@ logisticsServices = [
 # Basic Functions In http://localhost:5000/graphql
 1) Find all the information about clients or logisctics services
 + query{clients{ id name}}
-+ query{clients{ id name logisticsServices{ id name clientId}}
-+ query{logisticsServices{ id name clientId}
-+ query{logisticsServices{id name clientId client {id name }}
++ query{clients{ id name logisticsServices{ id name clientId}}}
++ query{logisticsServices{ id name clientId}}
++ query{logisticsServices{id name clientId client {id name }}}
 
 2) Find all the information about a client or a logistic service
 + query{ client(id:1){name}}
